@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odindevops.github.io/snippets-wgeyj1/sitemap.xml
